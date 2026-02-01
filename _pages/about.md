@@ -38,20 +38,23 @@ My research interest includes neural machine translation and computer vision. I 
 - [Voice Commands for Guidance to a 3D Position: To Collect Spontaneous Data](https://github.com), **A. Henry**, C. Graff, S. Rossato, et al, **PETRA 2025**
 
 # 📖 Educations
-- *Nov. 2023 -- Nov 2026 (now)*, PhD in Human-Robot Interaction, Grenoble Alpes Université, Grenoble, France
-- *Sep. 2021 -- Aug 2023 (now)*, MSc in Computer Science focus in Artificial Intelligence, Le Mans Université, Le Mans, France
+- *Nov. 2023 -- Nov 2026 (now)*, PhD in Human-Robot Interaction, Univ. Grenoble Alpes, Grenoble, France
+- *Sep. 2021 -- Aug 2023 (now)*, MSc in Computer Science focus in Artificial Intelligence, Univ. Le Mans, Le Mans, France
 
 # 💼 Experience
-- *Jan. 2024 -- Present*, **Peer Reviewer**, International Conferences (Interspeech, ICRA, IROS)
-  - Reviewing state-of-the-art papers in Human-Robot Interaction and Speech Processing.
+- *Nov. 2023 -- Nov. 2026*, **PhD Researcher**, Univ. Grenoble Alpes, Grenoble, France
+  - Developed a real-time spontaneous speech command system for drone navigation  
+  - Engineered a novel hybrid architecture combining LSTM and Attention mechanisms to handle spontaneous speech
+  - Analyzed human cognitive strategies in spatial guidance to inform model design
+  - Developed a Mixed-Reality experimental setup bridging real-world drone telemetry with a constrained virtual view in Unreal Engine
 
-- *Sep. 2022 -- Aug. 2023*, **R&D Intern in Artificial Intelligence**, [Nom de l'entreprise ou Labo], [Ville, Pays]
-  - Developed [mentionne une techno, ex: a transformer-based model] for real-time audio analysis.
-  - Improved [mentionne un résultat, ex: system latency by 20%] using multiprocessing techniques.
+- *Nov. 2023 -- Nov. 2026*, **Graduate Teaching Assistant**, Univ. Grenoble Alpes, France
+  - Courses taught: Computer Vision, Artificial Intelligence, C Programming, Algorithms
+  - Delivered technical lectures and led lab sessions for multiple groups of ∼30 undergraduate students
+  - Supervised practical assignments and coding exercises
 
-- *Sep. 2023 -- Present*, **Graduate Teaching Assistant**, Université Grenoble Alpes, France
-  - Teaching Assistant for Bachelor/Master courses: [Nom des cours, ex: Robotics, Machine Learning].
-  - Mentoring Master students on Human-Robot Interaction projects.
-
-- *June 2021 -- Aug. 2021*, **Software Engineering Intern**, [Nom de l'entreprise], [Ville, Pays]
-  - Integrated [Techno] into existing pipelines for automated data collection.
+- *Apr. 2022 -- Sep. 2023*, **Robotics Software Engineer (Apprenticeship)**, Apside Top, Le Mans, France
+  - Engineered an autonomous robot on Nvidia Jetson Nano capable of real-time human tracking and following
+  - Implemented Visual Odometry algorithms for camera-only localization and "return-to-home" features
+  - Optimized the entire processing pipeline using multiprocessing to ensure low-latency inference on edge hardware
+  - Built custom datasets and trained PyTorch models for obstacle detection and navigation
