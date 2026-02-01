@@ -35,8 +35,8 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Voice Commands for Guidance to a 3D Position: To Collect Spontaneous Data](https://github.com), **A. Henry**, C. Graff, S. Rossato, et al **PETRA 2025**
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Nov. 2023 -- Nov 2026 (now)*, PhD in Human-Robot Interaction, Grenoble Alpes Université, Grenoble, France
+- *Sep. 2021 -- Aug 2023 (now)*, MSc in Computer Science focus in Artificial Intelligence, Le Mans Université, Le Mans, France
