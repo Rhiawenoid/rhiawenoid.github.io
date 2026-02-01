@@ -25,12 +25,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interspeech 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
+  [XXX](https://rhiawenoid.github.io/VoiceStick-Research/)
 
-    [XXX](https://rhiawenoid.github.io/VoiceStick-Research/)
+  **A. Henry**, C. Graff, S. Rossato, et al
 
-    **A. Henry**, C. Graff, S. Rossato, et al
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
   </div>
 </div>
 
