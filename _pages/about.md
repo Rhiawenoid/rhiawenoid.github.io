@@ -33,7 +33,6 @@ My research interest includes neural machine translation and computer vision. I 
   </div>
 </div>
 
-- [XXX](https://github.com), **A. Henry**, C. Graff, S. Rossato, et al, **Interspeech 2026**
 - [Guiding a Drone by Voice: Corpus of Spontaneous Speech and Processing Pipeline with Human-Like Reaction-Time](https://github.com), **A. Henry**, C. Graff, S. Rossato, et al, **LREC 2026**
 - [Guiding sightless people one dimension at a time: how the strategy used in spontaneous voice instructions benefits sonification-based guidance](https://github.com), C. Fons, **A. Henry**, S. Huet, et al, **PLOS ONE**
 - [Voice Commands for Guidance to a 3D Position: To Collect Spontaneous Data](https://github.com), **A. Henry**, C. Graff, S. Rossato, et al, **PETRA 2025**
@@ -41,3 +40,18 @@ My research interest includes neural machine translation and computer vision. I 
 # 📖 Educations
 - *Nov. 2023 -- Nov 2026 (now)*, PhD in Human-Robot Interaction, Grenoble Alpes Université, Grenoble, France
 - *Sep. 2021 -- Aug 2023 (now)*, MSc in Computer Science focus in Artificial Intelligence, Le Mans Université, Le Mans, France
+
+# 💼 Experience
+- *Jan. 2024 -- Present*, **Peer Reviewer**, International Conferences (Interspeech, ICRA, IROS)
+  - Reviewing state-of-the-art papers in Human-Robot Interaction and Speech Processing.
+
+- *Sep. 2022 -- Aug. 2023*, **R&D Intern in Artificial Intelligence**, [Nom de l'entreprise ou Labo], [Ville, Pays]
+  - Developed [mentionne une techno, ex: a transformer-based model] for real-time audio analysis.
+  - Improved [mentionne un résultat, ex: system latency by 20%] using multiprocessing techniques.
+
+- *Sep. 2023 -- Present*, **Graduate Teaching Assistant**, Université Grenoble Alpes, France
+  - Teaching Assistant for Bachelor/Master courses: [Nom des cours, ex: Robotics, Machine Learning].
+  - Mentoring Master students on Human-Robot Interaction projects.
+
+- *June 2021 -- Aug. 2021*, **Software Engineering Intern**, [Nom de l'entreprise], [Ville, Pays]
+  - Integrated [Techno] into existing pipelines for automated data collection.
