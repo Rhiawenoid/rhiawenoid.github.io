@@ -35,7 +35,10 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Voice Commands for Guidance to a 3D Position: To Collect Spontaneous Data](https://github.com), **A. Henry**, C. Graff, S. Rossato, et al **PETRA 2025**
+- [XXX](https://github.com), **A. Henry**, C. Graff, S. Rossato, et al, **Interspeech 2026**
+- [Guiding a Drone by Voice: Corpus of Spontaneous Speech and Processing Pipeline with Human-Like Reaction-Time](https://github.com), **A. Henry**, C. Graff, S. Rossato, et al, **LREC 2026**
+- [Guiding sightless people one dimension at a time: how the strategy used in spontaneous voice instructions benefits sonification-based guidance](https://github.com), C. Fons, **A. Henry**, S. Huet, et al, **PLOS ONE**
+- [Voice Commands for Guidance to a 3D Position: To Collect Spontaneous Data](https://github.com), **A. Henry**, C. Graff, S. Rossato, et al, **PETRA 2025**
 
 # 📖 Educations
 - *Nov. 2023 -- Nov 2026 (now)*, PhD in Human-Robot Interaction, Grenoble Alpes Université, Grenoble, France
