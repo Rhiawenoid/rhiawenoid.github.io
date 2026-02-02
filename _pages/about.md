@@ -17,9 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a PhD Candidate in **Human-Robot Interaction (HRI)** at Grenoble Alpes Université (France), within the [Nom de ton Labo, ex: LIG or GIPSA-Lab]. My research sits at the intersection of **Natural Language Processing** and **Robotics**, with a specific focus on making autonomous systems more intuitive to control.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Currently, I am working on **VoiceStick**: a project dedicated to replacing traditional joysticks with spontaneous voice commands for drone navigation. By analyzing how humans naturally give directions, I develop real-time pipelines that allow UAVs to understand and execute complex maneuvers with "human-like" reaction times.
+
+My work involves:
+* **Spontaneous Speech Analysis:** Capturing and processing how we actually speak in high-stakes environments.
+* **Robot Learning:** Training models to map vocal intentions to agile flight trajectories.
+* **Real-time Systems:** Integrating MoCap data and deep learning models for seamless, low-latency execution.
+
+I am in the final year of my PhD (expected defense in **November 2026**) and I am actively looking for opportunities where I can apply my expertise in AI and robotics to create the next generation of interactive autonomous systems.
+
+<br>
+<a href='https://scholar.google.com/citations?user=_iTIYWwAAAAJ' target='_blank'>
+  <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=My%20Citations">
+</a>
 
 # 📝 Publications 
 
