@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Allan Henry"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Bridging the gap between Natural Language and Robotics. Developing VoiceStick: a real-time framework for intuitive, voice-guided autonomous flight and human-robot collaboration."
 repository               : "https://github.com/Rhiawenoid/rhiawenoid.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Paris # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
