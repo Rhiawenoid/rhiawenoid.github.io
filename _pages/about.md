@@ -28,11 +28,6 @@ My work involves:
 
 I am in the final year of my PhD (expected defense in **November 2026**) and I am actively looking for opportunities where I can apply my expertise in AI and robotics to create the next generation of interactive autonomous systems.
 
-<br>
-<a href='https://scholar.google.com/citations?user=_iTIYWwAAAAJ' target='_blank'>
-  <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=My%20Citations">
-</a>
-
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interspeech 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
