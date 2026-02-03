@@ -46,7 +46,7 @@ I am in the final year of my PhD (expected defense in **November 2026**) and I a
 
 # 📖 Educations
 - *Nov. 2023 -- Nov 2026 (now)*, PhD in Human-Robot Interaction, Univ. Grenoble Alpes, Grenoble, France
-- *Sep. 2021 -- Aug 2023 (now)*, MSc in Computer Science focus in Artificial Intelligence, Univ. Le Mans, Le Mans, France
+- *Sep. 2021 -- Aug 2023*, MSc in Computer Science focus in Artificial Intelligence, Univ. Le Mans, Le Mans, France
 
 # 💼 Experience
 - *Nov. 2023 -- Nov. 2026*, **PhD Researcher**, Univ. Grenoble Alpes, Grenoble, France
