@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD Candidate in **Human-Robot Interaction (HRI)** at Grenoble Alpes Université (France), within the [Nom de ton Labo, ex: LIG or GIPSA-Lab]. My research sits at the intersection of **Natural Language Processing** and **Robotics**, with a specific focus on making autonomous systems more intuitive to control.
+I am a PhD Candidate in **Human-Robot Interaction (HRI)** at Grenoble Alpes Université (France), within GIPSA-Lab, LIG and LPNC. My research sits at the intersection of **Natural Language Processing** and **Robotics**, with a specific focus on making autonomous systems more intuitive to control.
 
 Currently, I am working on **VoiceStick**: a project dedicated to replacing traditional joysticks with spontaneous voice commands for drone navigation. By analyzing how humans naturally give directions, I develop real-time pipelines that allow UAVs to understand and execute complex maneuvers with "human-like" reaction times.
 
